@@ -1,9 +1,22 @@
 # 2021 CSS Handbook
 
+## Content
+background-color  
+display:flex  
+width  
+
 <br>
 
-## width
-![width](https://github.com/Coding-Forest/2021-CSS/blob/main/images/css%20width.png)
+## background-color
+
+    .birds li {
+      background-color: white;
+    }
+    
+![background-color](https://github.com/Coding-Forest/2021-CSS/blob/main/images/background-color.png)
+
+<br>
+
 
 <br>
 
@@ -14,6 +27,22 @@
       display: flex;
 
 ![display flex](https://github.com/Coding-Forest/2021-CSS/blob/main/images/display%20flex.png)
+
+<br>
+
+## width
+![width](https://github.com/Coding-Forest/2021-CSS/blob/main/images/css%20width.png)
+
+<br>
+
+
+## tag
+![]()
+
+<br>
+
+## tag
+![]()
 
 <br>
 
