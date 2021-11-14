@@ -30,6 +30,16 @@ width
 
 <br>
 
+## max-width
+        
+     li {
+       max-width: 100%;
+     }
+
+![max-width](https://github.com/Coding-Forest/2021-CSS/blob/main/images/max%20width.png)
+
+<br>
+
 ## width
 ![width](https://github.com/Coding-Forest/2021-CSS/blob/main/images/css%20width.png)
 
